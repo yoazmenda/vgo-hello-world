@@ -1,4 +1,4 @@
-module github.com/yoazmenda/vgo-hello-world
+module github.com/yoazmenda/vgohelloword
 
 require (
 	github.com/sirupsen/logrus v1.0.5
